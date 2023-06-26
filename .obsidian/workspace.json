@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "1fe2d23151317bac",
+    "type": "split",
+    "children": [
+      {
+        "id": "45fdf5829ad677ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f435b724724f0d50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/HTML Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fcddc82f679d2e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/CSS Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f25219cfccadc1e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "38fd85356de84f93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "747804507a4e01d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c4e91890a18cf52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a64a56bc2391ef35",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "da8ecd077352267d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e44a58c3dbed32d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ce969400c3e4f6f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CSS/CSS Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21d0d7deadaee6ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CSS/CSS Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "484cb3696e912085",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2d59e161d5ac42de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CSS/CSS Notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1fcddc82f679d2e1",
+  "lastOpenFiles": [
+    "HTML/HTML Notes.md",
+    "REACT-JS/ReactJS.md",
+    "JAVASCRIPT/Javascript Notes.md",
+    "ReactJS 1.md",
+    "REACT-JS",
+    "NODEJS",
+    "CSS/CSS Notes.md",
+    "JAVASCRIPT",
+    "CSS Notes 1.md",
+    "CSS",
+    "HTML",
+    "NODEJS/NodeJS.md"
+  ]
+}
